@@ -5,7 +5,7 @@
 手っ取り早く社長に会いたい方は以下のコマンドを実行してください。
 
 ```bash
-python3 satoshi.py < input.txt
+python3 tansaku.py < input.txt
 ```
 
 ## 目的
