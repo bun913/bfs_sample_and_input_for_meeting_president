@@ -26,8 +26,8 @@ for _ in range(M):
 
 # 私の要素番号を取得（スタート地点）
 start = names.index("私")
-# さとしの要素番号を取得（ゴール地点）
-goal = names.index("さとし")
+# 社長の要素番号を取得（ゴール地点）
+goal = names.index("社長")
 q = deque([start])
 # 各頂点までの最短距離を管理する配列
 dist_list = [-1] * N
